@@ -8,13 +8,13 @@
 
 ##  Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio de lógica de programação. O objetivo principal foi consolidar conhecimentos sobre **variáveis**, **operadores**, **estruturas de decisão** e **entrada de dados** via terminal.
+Este projeto foi desenvolvido como parte de um desafio de lógica de programção DIO - SANTANDER . O objetivo principal foi consolidar conhecimentos sobre **variáveis**, **operadores**, **estruturas de decisão** e **entrada de dados** via terminal.
 
 O programa recebe o nome e a quantidade de experiência (XP) de um herói e, através de uma estrutura de decisão, retorna o nível em que ele se encontra (Ferro, Bronze, Prata, etc.).
 
 ---
 
-##  Demonstração
+##  Demonstraçãodo curso
 
 <img width="1605" height="344" alt="image" src="https://github.com/user-attachments/assets/4b55f017-fce1-4153-867f-f81041351a40" />
 
@@ -48,8 +48,13 @@ O programa recebe o nome e a quantidade de experiência (XP) de um herói e, atr
 node classificadrDeHeroi.js
 Siga as instruções no terminal digitando o nome e o XP do herói.
 
+---
+
+
 Autora
-<img style="border-radius: 50%;" src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/89961605%3Fv%3D4" width="100px;" alt="Avatar"/>
+
+![WhatsApp Image 2025-03-06 at 22 38 01](https://github.com/user-attachments/assets/f61cb4e1-c38f-411a-a8ea-90239bb26605)
+
 
 Feito por Beatriz Soares Gomes.
 
