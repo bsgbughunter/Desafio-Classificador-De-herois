@@ -44,14 +44,14 @@ O programa recebe o nome e a quantidade de experiência (XP) de um herói e, atr
 3. Abra o terminal na pasta do projeto.
 4. Execute o comando:
 
-```bash
+
 node classificadrDeHeroi.js
 Siga as instruções no terminal digitando o nome e o XP do herói.
 
-👩‍💻 Autora
+Autora
 <img style="border-radius: 50%;" src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/89961605%3Fv%3D4" width="100px;" alt="Avatar"/>
 
-Feito com 💜 por Beatriz Soares Gomes.
+Feito por Beatriz Soares Gomes.
 
 Estou em transição de carreira e atualmente sou estudante de Engenharia de Software. Apaixonada por tecnologia e resolvendo problemas através do código, um desafio de cada vez.
 
